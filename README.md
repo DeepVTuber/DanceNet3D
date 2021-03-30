@@ -1,7 +1,7 @@
 # DanceNet3D
 
 <p align="center">
-    <img src="src/dancenet3d.gif", width=90%>
+    <img src="rsc/dancenet3d.gif", width=90%>
 </p>
 
 The personal repository of the work:
@@ -9,7 +9,7 @@ The personal repository of the work:
 **[DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer](https://arxiv.org/abs/2103.10206)**.
 
 <p align="left">
-    <img src="src/overview.png", width=90%>
+    <img src="rsc/overview.png", width=90%>
 </p>
 
 ## Dataset and Results
