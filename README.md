@@ -17,8 +17,9 @@ The personal repository of the work:
 Please visit the [Project Page](https://huiye-tech.github.io/project/dancenet3d/) for the result videos and the details of the PhantomDance-100 dataset, which has 794776 frames(about 3.7 hours).
 
 To obtain the PhantomDance-100 Dataset, please send an email to research@huiye.tech with the following information:
-(1) your name, title, affiliation (if you are a student, please ask your advisor to contact us)
-(2) your intended use of the data
+
+- (1) your name, title, affiliation (if you are a student, please ask your advisor to contact us)
+- (2) your intended use of the data
 
 ## [Demo Videos](https://deepvtuber.github.io/DanceNet3D/#final-target)
 <p><video src="src/MangZhong.mp4" width="1280px" height="720px" controls="controls"></video></p>
