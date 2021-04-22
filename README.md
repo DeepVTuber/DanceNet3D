@@ -1,7 +1,7 @@
 # DanceNet3D
 
 <p align="center">
-    <img src="rsc/dancenet3d.gif", width=90%>
+    <img src="https://github.com/DeepVTuber/DanceNet3D/raw/main/rsc/dancenet3d.gif", width=90%>
 </p>
 
 The personal repository of the work:
@@ -9,7 +9,7 @@ The personal repository of the work:
 **[DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer](https://arxiv.org/abs/2103.10206)**.
 
 <p align="left">
-    <img src="rsc/overview.png", width=90%>
+    <img src="https://github.com/DeepVTuber/DanceNet3D/raw/main/rsc/overview.png", width=90%>
 </p>
 
 ## Dataset and Results
@@ -22,8 +22,12 @@ To obtain the PhantomDance-100 Dataset, please send an email to research@huiye.t
 - (2) your intended use of the data
 
 ## [Demo Videos](https://deepvtuber.github.io/DanceNet3D/#final-target)
-<p><video src="src/MangZhong.mp4" width="1280px" height="720px" controls="controls"></video></p>
-<p><video src="src/Girls.mp4" width="1280px" height="720px" controls="controls"></video></p>
+
+<div class="embed-responsive embed-responsive-32by9">
+    <video width="800px" playsinline autoplay loop preload muted> <source src="./sources/wp4_.mp4" type=video/mp4><video>
+</div>
+<div><video src="./src/MangZhong.mp4" width="1280px" height="720px" controls="controls"></video></div>
+<div><video src="https://github.com/DeepVTuber/DanceNet3D/raw/main/rsc/Girls.mp4" width="1280px" height="720px" controls="controls"></video></div>
 
 ## Study Blog in Chinese
 
@@ -31,7 +35,7 @@ To obtain the PhantomDance-100 Dataset, please send an email to research@huiye.t
 
 ## Code
 
-Code is coming soon.
+Code is coming soon...
 
 
 ## [Final Target](https://deepvtuber.github.io/DanceNet3D/#demo-videos)
