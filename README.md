@@ -1,16 +1,16 @@
 # DanceNet3D
 
-<p align="center">
+<div align="center">
     <img src="https://github.com/DeepVTuber/DanceNet3D/raw/main/rsc/dancenet3d.gif", width=90%>
-</p>
+</div>
 
 The personal repository of the work:
 
 **[DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer](https://arxiv.org/abs/2103.10206)**.
 
-<p align="left">
+<div align="left">
     <img src="https://github.com/DeepVTuber/DanceNet3D/raw/main/rsc/overview.png", width=90%>
-</p>
+</div>
 
 ## Dataset and Results
 
